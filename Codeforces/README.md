@@ -2,7 +2,7 @@
 
 
 
-## In the folder `Gym`
+## In the folder `Problemset`
 
 Irregular problem solving code in Codeforces.
 
