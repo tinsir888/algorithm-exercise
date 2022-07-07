@@ -1,6 +1,4 @@
-# Code in Gym
-
-
+# Code in [Problemset](https://codeforces.com/problemset)
 
 All source code file names are in the following format:
 
