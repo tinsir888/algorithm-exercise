@@ -1,6 +1,4 @@
-# Code in Contest
-
-
+# Code in [Contest](https://codeforces.com/contests)
 
 Each subfolder contains codes of same contest.
 
